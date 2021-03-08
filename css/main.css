@@ -1004,7 +1004,7 @@ body.tg-fixedme .tg-header {
     display: block;
 }
 .tg-logo a img {
-    width: 100%;
+    /* width: 100%; */
     height: auto;
     display: block;
 }
